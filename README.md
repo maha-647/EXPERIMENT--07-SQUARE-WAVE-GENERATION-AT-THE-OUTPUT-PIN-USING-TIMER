@@ -95,7 +95,7 @@ Step14. click on debug and simulate using simulation as shown below
 
   
 
-## STM 32 CUBE PROGRAM :
+## STM 32 CUBE PROGRAM
 ```
 /* USER CODE BEGIN Header */
 /**
@@ -360,12 +360,10 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
-
 ```
 
 
-
-
+ 
 ## Output screen shots of proteus  :
 <img width="1352" height="943" alt="image" src="https://github.com/user-attachments/assets/59955719-0289-432f-85ba-d340657ec44f" />
 
